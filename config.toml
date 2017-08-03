@@ -1,0 +1,35 @@
+baseurl = "http://localhost:1313"
+theme = "cocoa-eh"
+builddrafts = true
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "public"
+author = "Radnerus Suren"
+title = "Blog | Radnerus Suren"
+pygmentsuseclasses = true
+disqusshortname = ""
+pluralizelisttitles = false
+enableEmoji=true
+
+[permalinks]
+fixed = ":title/"
+blog = ":url/"
+
+[params]
+author = "Radnerus Suren"
+cachebuster = true
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+description = "A Blog by Radnerus Suren!"
+homeurl = "https://radnerus.github.io"
+contacturl = "https://radnerus.github.io/#suren-contact"
+logofile = "img/suren.jpg"
+faviconfile = "img/favicon.jpg"
+highlightjs = true
+lang = "en"
+github = "radnerus"
+linkedin = "radnerus"
+twitter = "@radnerus93"
+facebook = "radnerus"
