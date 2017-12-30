@@ -15,7 +15,6 @@ enableEmoji=true
 
 [permalinks]
 fixed = ":title/"
-blog = ":url/"
 
 [params]
 author = "Radnerus Suren"
